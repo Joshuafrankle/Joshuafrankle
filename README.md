@@ -14,6 +14,7 @@ I'm Developer & Designer with an year of experience at a technical club named [P
 ![](https://img.shields.io/badge/Illustrator--informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=2bbc8a) &nbsp;
 ![](https://img.shields.io/badge/Git--informational?style=flat&logo=Git&logoColor=white&color=2bbc8a) &nbsp;
 ![](https://img.shields.io/badge/GitHub--informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a) &nbsp;
+![](https://img.shields.io/badge/Postman--informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a) &nbsp;
 ![](https://img.shields.io/badge/npm--informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
 
 ## 📱 You can find me on
