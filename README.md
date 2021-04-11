@@ -4,17 +4,17 @@ I'm Developer & Designer with an year of experience at a technical club named [P
 
 
 ## 🛠 Technologies & Tools
-![](https://img.shields.io/badge/Python--informational?style=flat&logo=python&logoColor=white&color=2bbc8a) &nbsp;
-![](https://img.shields.io/badge/HTML--informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) &nbsp;
-![](https://img.shields.io/badge/JavaScript--informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) &nbsp;
-![](https://img.shields.io/badge/Bootstarp--informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a) &nbsp;
-![](https://img.shields.io/badge/Flask--informational?style=flat&logo=Flask&logoColor=white&color=2bbc8a) &nbsp;
-![](https://img.shields.io/badge/ReactJs--informational?style=flat&logo=React&logoColor=white&color=2bbc8a) &nbsp;
-![](https://img.shields.io/badge/MySQL--informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a) &nbsp;
-![](https://img.shields.io/badge/Illustrator--informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=2bbc8a) &nbsp;
-![](https://img.shields.io/badge/Git--informational?style=flat&logo=Git&logoColor=white&color=2bbc8a) &nbsp;
-![](https://img.shields.io/badge/GitHub--informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a) &nbsp;
-![](https://img.shields.io/badge/npm--informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python--informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a) &nbsp;
+![](https://img.shields.io/badge/HTML--informational?style=for-the-badge&logo=HTML5&logoColor=white&color=2bbc8a) &nbsp;
+![](https://img.shields.io/badge/JavaScript--informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a) &nbsp;
+![](https://img.shields.io/badge/Bootstarp--informational?style=for-the-badge&logo=Bootstrap&logoColor=white&color=2bbc8a) &nbsp;
+![](https://img.shields.io/badge/Flask--informational?style=for-the-badge&logo=Flask&logoColor=white&color=2bbc8a) &nbsp;
+![](https://img.shields.io/badge/ReactJs--informational?style=for-the-badge&logo=React&logoColor=white&color=2bbc8a) &nbsp;
+![](https://img.shields.io/badge/MySQL--informational?style=for-the-badge&logo=MySQL&logoColor=white&color=2bbc8a) &nbsp;
+![](https://img.shields.io/badge/Illustrator--informational?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=2bbc8a) &nbsp;
+![](https://img.shields.io/badge/Git--informational?style=for-the-badge&logo=Git&logoColor=white&color=2bbc8a) &nbsp;
+![](https://img.shields.io/badge/GitHub--informational?style=for-the-badge&logo=GitHub&logoColor=white&color=2bbc8a) &nbsp;
+![](https://img.shields.io/badge/npm--informational?style=for-the-badge&logo=npm&logoColor=white&color=2bbc8a)
 
 ## 📱 You can find me on
 [![Gmail](https://img.shields.io/badge/-Mail-0077B5?style=for-the-badge&logo=Gmail&logoColor=white&color=important)](mailto:joshuafrankle7@gmail.com) &nbsp;
