@@ -22,6 +22,8 @@ I'm Developer & Designer with an year of experience at a technical club named [P
 [![Gmail](https://img.shields.io/badge/-Mail-0077B5?style=for-the-badge&logo=Gmail&logoColor=white&color=important)](mailto:joshuafrankle7@gmail.com) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joshua-frankle-9832271ab/) &nbsp;
 
+#
+
 ###### The code in my public repositories are only a sample of the kind of projects I have worked on. Personal projects with sensitive code/data are private so if you'd like to talk about them, feel free to get in touch with me.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Joshuafrankle.Joshuafrankle)
