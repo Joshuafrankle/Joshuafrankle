@@ -26,4 +26,4 @@ I'm Developer & Designer with an year of experience at a technical club named [P
 
 ###### The code in my public repositories are only a sample of the kind of projects I have worked on. Personal projects with sensitive code/data are private so if you'd like to talk about them, feel free to get in touch with me.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Joshuafrankle.Joshuafrankle)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Joshuafrankle.Joshuafrankle&title=Visitors)
