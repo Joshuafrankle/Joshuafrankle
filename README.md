@@ -5,7 +5,7 @@ I'm Developer & Designer with an year of experience at a technical club named [P
 
 ## 🛠 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python--informational?style=flat&logo=python&logoColor=white&color=2bbc8a) &nbsp;
-![HTML](https://img.shields.io/badge/HTML--informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) &nbsp;
+![HTML](https://img.shields.io/badge/HTML5--informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) &nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript--informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) &nbsp;
 ![Bootstarp](https://img.shields.io/badge/Bootstarp--informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a) &nbsp;
 ![Flask](https://img.shields.io/badge/Flask--informational?style=flate&logo=Flask&logoColor=white&color=2bbc8a) &nbsp;
