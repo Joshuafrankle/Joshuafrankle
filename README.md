@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Developer & Designer with an year of experience at a technical club named [Pattarai](http://pattarai.in "www.pattarai.in"). Pretty much good at Back-end engineering. Currently pursuing my Bachelor of Computer Science at Loyola College of Arts and Science.
+I'm Developer & Designer with an year of experience at a technical club named [Pattarai](http://pattarai.in "www.pattarai.in"). Pretty much good at Back-end operations. Currently pursuing my Bachelor of Computer Science at Loyola College of Arts and Science.
 
 
 ## 🛠 Technologies & Tools
