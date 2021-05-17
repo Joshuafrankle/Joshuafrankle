@@ -18,6 +18,7 @@ I'm Developer & Designer with an year of experience at a technical club named [P
 ![Postman](https://img.shields.io/badge/Postman--informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a) &nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel--informational?style=flat&logo=Vercel&logoColor=white&color=2bbc8a) &nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase--informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a) &nbsp;
+![Wireframing](https://img.shields.io/badge/Wireframing--informational?style=flat&logo=Material-Design-Icons&logoColor=white&color=2bbc8a) &nbsp;
 ![npm](https://img.shields.io/badge/npm--informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
 
 ## 📱 You can find me on
