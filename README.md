@@ -18,7 +18,6 @@ I'm Developer & Designer with an year of experience at a technical club named [P
 ![Postman](https://img.shields.io/badge/Postman--informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a) &nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase--informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a) &nbsp;
 ![Cloudflare](https://img.shields.io/badge/Cloudflare--informational?style=flat&logo=Cloudflare&logoColor=white&color=2bbc8a) &nbsp;
-![Firebase](https://img.shields.io/badge/Firebase--informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a) &nbsp;
 ![Wireframing](https://img.shields.io/badge/Wireframing--informational?style=flat&logo=MODX&logoColor=white&color=2bbc8a) &nbsp;
 ![npm](https://img.shields.io/badge/npm--informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
 
