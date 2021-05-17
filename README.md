@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Developer & Designer with an year of experience at a technical club named [Pattarai](http://pattarai.in "www.pattarai.in"). Backend Operations and UI designing is my thing, SMH. In love with many other things than just my text editor. Love music, dance, cinematography and chase football on the ground. Currently pursuing my Bachelor of Computer Science at Loyola College of Arts and Science.
+I'm Joshua Frankle, Developer & Designer with an year of experience at a technical club named [Pattarai](http://pattarai.in "www.pattarai.in"). Backend Operations and UI designing is my thing, SMH. In love with many other things than just my text editor. Love music, dance, cinematography and chase football on the ground. Currently pursuing my Bachelor of Computer Science at Loyola College of Arts and Science.
 
 
 ## 🛠 Technologies & Tools
