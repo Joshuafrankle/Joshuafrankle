@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Developer & Designer with an year of experience at a technical club named [Pattarai](http://pattarai.in "www.pattarai.in"). Pretty much good at Back-end operations. Currently pursuing my Bachelor of Computer Science at Loyola College of Arts and Science.
+I'm Developer & Designer with an year of experience at a technical club named [Pattarai](http://pattarai.in "www.pattarai.in"). Backend Operations and UI designing is my thing, SMH. In love with many other things than just my text editor. Love music, dance, cinematography and chase football on the ground. Currently pursuing my Bachelor of Computer Science at Loyola College of Arts and Science.
 
 
 ## 🛠 Technologies & Tools
@@ -12,9 +12,12 @@ I'm Developer & Designer with an year of experience at a technical club named [P
 ![ReactJs](https://img.shields.io/badge/ReactJs--informational?style=flat&logo=React&logoColor=white&color=2bbc8a) &nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL--informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a) &nbsp;
 ![Illustrator](https://img.shields.io/badge/Illustrator--informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=2bbc8a) &nbsp;
+![Premiere Pro](https://img.shields.io/badge/PremierePro--informational?style=flat&logo=Adobe-Premiere-Pro&logoColor=white&color=2bbc8a) &nbsp;
 ![Git](https://img.shields.io/badge/Git--informational?style=flat&logo=Git&logoColor=white&color=2bbc8a) &nbsp;
 ![Github](https://img.shields.io/badge/GitHub--informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a) &nbsp;
 ![Postman](https://img.shields.io/badge/Postman--informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a) &nbsp;
+![Vercel](https://img.shields.io/badge/Vercel--informational?style=flat&logo=Vercel&logoColor=white&color=2bbc8a) &nbsp;
+![Firebase](https://img.shields.io/badge/Firebase--informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a) &nbsp;
 ![npm](https://img.shields.io/badge/npm--informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
 
 ## 📱 You can find me on
