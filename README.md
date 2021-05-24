@@ -12,7 +12,7 @@ I'm Joshua Frankle, Developer & Designer with an year of experience at a technic
 ![ReactJs](https://img.shields.io/badge/ReactJs--informational?style=flat&logo=React&logoColor=white&color=2bbc8a) &nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL--informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a) &nbsp;
 ![Illustrator](https://img.shields.io/badge/Illustrator--informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=2bbc8a) &nbsp;
-![Premiere Pro](https://img.shields.io/badge/PremierePro--informational?style=flat&logo=Adobe-Premiere-Pro&logoColor=white&color=2bbc8a) &nbsp;
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro--informational?style=flat&logo=Adobe-Premiere-Pro&logoColor=white&color=2bbc8a) &nbsp;
 ![Git](https://img.shields.io/badge/Git--informational?style=flat&logo=Git&logoColor=white&color=2bbc8a) &nbsp;
 ![Github](https://img.shields.io/badge/GitHub--informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a) &nbsp;
 ![Postman](https://img.shields.io/badge/Postman--informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a) &nbsp;
