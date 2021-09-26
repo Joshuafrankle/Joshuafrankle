@@ -22,10 +22,10 @@ I'm Joshua Frankle, Developer & Designer with an year of experience at a technic
 ![Wireframing](https://img.shields.io/badge/Wireframing--informational?style=flat&logo=MODX&logoColor=white&color=2bbc8a) &nbsp;
 ![npm](https://img.shields.io/badge/npm--informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
 
-<!-- <div style="display: flex">
+<div style="display: flex">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Joshuafrankle&theme=green_nur&&background=0d1117&border=444" height="165">
 <img src="https://github-readme-stats.vercel.app/api?username=Joshuafrankle&show_icons=true&title_color=0cebba&icon_color=0cebba&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="165"  style="margin-left: 50px">
- </div> -->
+ </div>
 
 ## 📱 You can find me on
 [![Instagram](https://img.shields.io/badge/-Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white&color=e4405f)](https://www.instagram.com/joshua.frankle/) &nbsp;
