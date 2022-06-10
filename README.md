@@ -1,4 +1,4 @@
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="auto">
 
 <!-- [![Gmail](https://img.shields.io/badge/-Mail-0077B5?style=for-the-badge&logo=Gmail&logoColor=white&color=0d1117)](mailto:joshuafrankle7@gmail.com) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/-linkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0d1117)](https://www.linkedin.com/in/joshua-frankle-9832271ab/) &nbsp;
