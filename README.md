@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0d1117)](https://www.linkedin.com/in/joshua-frankle-9832271ab/) &nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white&color=0d1117)](https://twitter.com/JoshuaFrankle) &nbsp; -->
 
-I'm Joshua Frankle, Developer & Designer. Front-end development and UI/UX are my expertise. In love with many other things than just my text editor. Love music, dance, cinematography and chase football on the ground. Currently pursuing my Bachelor of Computer Science at Loyola College of Arts and Science.
+I'm Joshua Frankle, Developer & Designer. Front-end development and UI/UX are my expertise. In love with many other things than just my text editor. Love music, dance, cinematography and chase football on the ground. Currently pursuing Master's in Computer Science at Loyola College of Arts and Science.
 
 
 ## 🛠 Technologies & Tools
