@@ -1,10 +1,10 @@
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="auto"/>
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="auto" alt="Waving"/>
 
 <!-- [![Gmail](https://img.shields.io/badge/-Mail-0077B5?style=for-the-badge&logo=Gmail&logoColor=white&color=0d1117)](mailto:joshuafrankle7@gmail.com) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/-linkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0d1117)](https://www.linkedin.com/in/joshua-frankle-9832271ab/) &nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white&color=0d1117)](https://twitter.com/JoshuaFrankle) &nbsp; -->
 
-I'm Joshua Frankle, Developer & Designer. Front-end development and UI/UX are my expertise. In love with many other things than just my text editor. Love music, dance, cinematography and chase football on the ground. Currently pursuing Masters in Computer Science at Loyola College of Arts and Science.
+I'm Joshua Frankle, a Developer and designer. Front-end development and UI/UX are my expertise. In love with many other things than just my text editor. Love music, dance, cinematography and chasing football on the ground. Currently pursuing a Masters in Computer Science at Loyola College of Arts and Science.
 
 
 ## 🛠 Technologies & Tools
@@ -30,6 +30,6 @@ I'm Joshua Frankle, Developer & Designer. Front-end development and UI/UX are my
 <img src="https://github-readme-stats.vercel.app/api?username=Joshuafrankle&show_icons=true&title_color=0cebba&icon_color=0cebba&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="150"  style="margin-left: 50px">
  </div>
 
-###### The code in my public repositories are only a sample of the kind of projects I have worked on. Personal projects with sensitive code/data are private so if you'd like to talk about them, feel free to get in touch with me.
+###### The code in my public repositories is only a sample of the projects I have worked on. Personal projects with sensitive code/data are private so if you'd like to talk about them, feel free to get in touch with me.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Joshuafrankle.Joshuafrankle&title=Visitors)
