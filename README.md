@@ -31,4 +31,4 @@ I'm Joshua Frankle, One part tech nerd, one part daydreamer. With years worth of
 
 ###### The code in my public repositories is only a sample of the projects I have worked on. Personal projects with sensitive code/data are private so if you'd like to talk about them, feel free to get in touch with me.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Joshuafrankle.Joshuafrankle&title=Visitors)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Joshuafrankle.Joshuafrankle&title=Visitors) -->
