@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0d1117)](https://www.linkedin.com/in/joshua-frankle-9832271ab/) &nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white&color=0d1117)](https://twitter.com/JoshuaFrankle) &nbsp; -->
 
-I'm Joshua Frankle, One part coding maestro, one part tech nerd. With a year's worth of adventures in software, I've mastered turning pixels into pure magic. As a front-end fanatic I aim to make apps so user-friendly even your grandma would give them two thumbs up. I love turning 'I don't know' into 'I've got this!' and tech challenges into victory dances. Always looking for chances to make a dent in the universe. I'm not just about my text editor, I'm into many other things like dance, cinematography and chasing football on the ground.
+I'm Joshua Frankle, One part tech nerd, one part daydreamer. With years worth of adventures in software, I transform design concepts into functional and visually appealing applications and have a knack for diving deep into code and unraveling its mysteries. As a front-end fanatic I aim to make apps so user-friendly even your grandma would give them two thumbs up. I love turning 'I don't know' into 'I've got this!' and tech challenges into victory dances. Always looking for chances to make a dent in the universe. I'm not just about my text editor, I'm into many other things like dance, cinematography and chasing football on the ground.
 
 ## 🛠 Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML5--informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) &nbsp;
