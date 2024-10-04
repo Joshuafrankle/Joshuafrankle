@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0d1117)](https://www.linkedin.com/in/joshua-frankle-9832271ab/) &nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white&color=0d1117)](https://twitter.com/JoshuaFrankle) &nbsp; -->
 
-I'm Joshua Frankle—part tech wizard, part daydreamer. With years of software adventures under my belt and an instinct for diving deep into code, I turn design dreams into smooth, sleek, and functional apps. As a front-end fanatic, my mission is to make apps so intuitive that even your grandma would be swiping and tapping like a pro. I live for those 'I have no idea' moments, flipping them into 'Consider it conquered!'. But it’s not just all code—I’m also into cinematography, hitting the dance floor, and chasing football like I’m Messi on a Sunday!
+I'm Joshua Frankle, part tech wizard, part daydreamer. With years of software adventures under my belt and an instinct for diving deep into code, I turn design dreams into smooth, sleek, and functional apps. As a front-end fanatic, my mission is to make apps so intuitive that even your grandma would be swiping and tapping like a pro. I live for those 'I have no idea' moments, flipping them into 'Consider it conquered!'. But it’s not just all code, I’m also into cinematography, hitting the dance floor, and chasing football like I’m Messi on a Sunday!
 
 ## 🛠 Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML5--informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) &nbsp;
