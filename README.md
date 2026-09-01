@@ -7,9 +7,9 @@
 I'm Joshua Frankle, part tech wizard, part daydreamer. With years of software adventures under my belt and an instinct for diving deep into code, I turn design dreams into smooth, sleek, and functional apps. As a front-end fanatic, my mission is to make apps so intuitive that even your grandma would be swiping and tapping like a pro. I live for those 'I have no idea' moments, flipping them into 'Consider it conquered!'. But it’s not just all code, I’m also into cinematography, hitting the dance floor, and chasing football like I’m Messi on a Sunday!
 
 ## 🛠 Technologies & Tools
-![HTML](https://img.shields.io/badge/HTML5--informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) &nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript--informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) &nbsp;
-![Bootstarp](https://img.shields.io/badge/Bootstarp--informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a) &nbsp;
+![Next.js](https://img.shields.io/badge/Next.js--informational?style=flat&logo=Next.js&logoColor=white&color=2bbc8a) &nbsp;
+![Typescript](https://img.shields.io/badge/Typescript--informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a) &nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind--informational?style=flat&logo=Tailwindcss&logoColor=white&color=2bbc8a) &nbsp;
 ![Python](https://img.shields.io/badge/Python--informational?style=flat&logo=python&logoColor=white&color=2bbc8a) &nbsp;
 ![Flask](https://img.shields.io/badge/Flask--informational?style=flate&logo=Flask&logoColor=white&color=2bbc8a) &nbsp;
 ![ReactJs](https://img.shields.io/badge/ReactJs--informational?style=flat&logo=React&logoColor=white&color=2bbc8a) &nbsp;
