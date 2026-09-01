@@ -25,9 +25,9 @@ I'm Joshua Frankle, part tech wizard, part daydreamer. With years of software ad
 ![Wireframing](https://img.shields.io/badge/Wireframing--informational?style=flat&logo=MODX&logoColor=white&color=2bbc8a) &nbsp;
 
 <div style="display: flex; display: -webkit-box; display: -webkit-flex;">
-<img src="https://streak-stats.demolab.com?user=Joshuafrankle&theme=gotham&hide_border=true" alt="GitHub Streak" />
-<img src="https://github-readme-stats-five-delta-16.vercel.app/api?username=Joshuafrankle&show_icons=true&theme=gotham&hide_border=true&border_radius=4" alt="GitHub Stats"/>
- </div>
+<img src="https://streak-stats.demolab.com?user=Joshuafrankle&theme=gotham&hide_border=true" alt="GitHub Streak" width="48%" height="auto" />
+<img src="https://github-readme-stats-five-delta-16.vercel.app/api?username=Joshuafrankle&show_icons=true&theme=gotham&hide_border=true&border_radius=4" width="45%" height="auto" alt="GitHub Stats"/>
+</div>
 
 ###### The code in my public repositories is only a sample of the projects I have worked on. Personal projects with sensitive code/data are private so if you'd like to talk about them, feel free to get in touch with me.
 
